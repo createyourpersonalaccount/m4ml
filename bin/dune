@@ -1,0 +1,4 @@
+(executable
+ (public_name m4ml)
+ (name main)
+ (libraries m4ml))
